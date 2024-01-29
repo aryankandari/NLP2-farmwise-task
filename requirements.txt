@@ -1,0 +1,12 @@
+pandas
+nltk
+matplotlib
+transformers
+gensim
+torch
+scikit-learn
+openai
+langchain
+llama-index
+python-dotenv
+pinecone-client
